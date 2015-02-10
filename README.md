@@ -1,5 +1,10 @@
-<body background="/images/image_name.gif" 
-		bgcolor="orange">
+<style type="text/css">
+.colorBox {
+
+	background-color:#ff9900;
+}
+</style>
+
 
 
 <html>
