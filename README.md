@@ -1,7 +1,7 @@
 <style type="text/css">
 .colorBox {
 
-	background-color:#ff9900;
+	background-color:#red;
 }
 </style>
 
