@@ -1,7 +1,8 @@
+<html>
+<head>
+</head>
+<body style="background-color:#eeeeee;">
 
-
-<body style="background-color:re">
-</body>
 
 <html>
 <head>
@@ -15,10 +16,6 @@
  <html>
 <body>
 
-<body style="background-color:re">
-
-</body>
-</html>
  
 
   <p> Name: Micheal Hugue. <br />
@@ -31,3 +28,5 @@
 </body>
 
 </html> 
+</body>
+</html>
