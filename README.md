@@ -1,9 +1,14 @@
-<style type="text/css">
-.colorBox {
 
-	background-color:#red;
-}
-</style>
+<html>
+<body style="background-color:lightgrey">
+
+<h1>This is a heading</h1>
+
+<p>This is a paragraph.</p>
+
+</body>
+</html>
+
 
 
 
