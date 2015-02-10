@@ -1,4 +1,7 @@
 
+
+
+
 <html>
 <head>
   <title> Micheal Hugue </title>
@@ -7,6 +10,15 @@
 <body>
 
   <h1>About Me</h1>
+  
+ <html>
+<body>
+
+<img src="w3schools.jpg" alt="W3Schools.com" width="104" height="142">
+
+</body>
+</html>
+ 
 
   <p> Name: Micheal Hugue. <br />
   Age: 21 <br />
