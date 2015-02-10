@@ -1,7 +1,5 @@
-<html>
-<head>
-</head>
-<body style="background-color:#red;">
+<body background="/images/image_name.gif" 
+		bgcolor="orange">
 
 
 <html>
@@ -28,5 +26,4 @@
 </body>
 
 </html> 
-</body>
-</html>
+
