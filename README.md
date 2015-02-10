@@ -1,7 +1,7 @@
 
-<html>
+
 <body style="background-color:re">
-</html>
+</body>
 
 <html>
 <head>
